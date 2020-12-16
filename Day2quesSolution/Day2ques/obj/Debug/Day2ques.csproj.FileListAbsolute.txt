@@ -1,0 +1,7 @@
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe.config
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.pdb
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csprojAssemblyReference.cache
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csproj.CoreCompileInputs.cache
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.exe
+C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.pdb
