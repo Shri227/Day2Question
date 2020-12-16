@@ -1,0 +1,7 @@
+sample i/p : 2 10
+o/p        : 2 3 5 7
+
+
+sample i/p : 3 10
+o/p        : 3 5 7
+
