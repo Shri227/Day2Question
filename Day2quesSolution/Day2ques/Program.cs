@@ -10,6 +10,8 @@ namespace Day2ques
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Name is Sneha K");
+            Console.ReadKey();
         }
     }
 }

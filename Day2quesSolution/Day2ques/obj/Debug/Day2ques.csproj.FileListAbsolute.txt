@@ -1,0 +1,7 @@
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe.config
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.pdb
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csprojAssemblyReference.cache
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csproj.CoreCompileInputs.cache
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.exe
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.pdb
