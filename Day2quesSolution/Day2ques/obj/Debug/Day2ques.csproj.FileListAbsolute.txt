@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe.config
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\bin\Debug\Day2ques.pdb
@@ -5,3 +6,12 @@ C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csproj.CoreCompileInputs.cache
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.exe
 C:\Users\Shrishti Soni\source\repos\Spl\Day2Questionfolder\Day2quesSolution\Day2ques\obj\Debug\Day2ques.pdb
+=======
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe.config
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.exe
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\bin\Debug\Day2ques.pdb
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csprojAssemblyReference.cache
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.csproj.CoreCompileInputs.cache
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.exe
+D:\day2workclone\Day2Question\Day2quesSolution\Day2ques\obj\Debug\Day2ques.pdb
+>>>>>>> 740e22464d3c7217c4270e597efedeafa172f47e

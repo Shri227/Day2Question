@@ -11,6 +11,7 @@ namespace Day2ques
         static void Main(string[] args)
         {
 
+
             int a, b, i, j, flag;
   
             Console.WriteLine("Enter lower bound of the range: ");
@@ -37,6 +38,9 @@ namespace Day2ques
                 if (flag == 1)
                     Console.WriteLine(i);
             }
+
+
+            Console.WriteLine("Name is Sneha K");
 
             Console.ReadKey();
         }
